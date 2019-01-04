@@ -1,2 +1,0 @@
-# gitdome
-a git dome
